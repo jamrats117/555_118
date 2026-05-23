@@ -578,3 +578,24 @@ Responsible AI consideration
 → การนำไปใช้จริง
 
 จุดเน้นไม่ใช่การเขียนฐานข้อมูลหรือวิเคราะห์ข้อมูลเชิงสถิติ แต่คือการทำให้นักศึกษาสามารถเข้าใจและจัดการงานข้อมูลสุขภาพในระดับองค์กรและโครงการได้
+
+
+# โครงสร้างรายวิชา 14 ครั้ง
+
+| ครั้ง | ชื่อหัวข้อภาษาไทย | Topic in English | CLO หลัก |
+|---:|---|---|---|
+| 1 | บทนำสู่การจัดการข้อมูลสุขภาพและวงจรชีวิตข้อมูลสุขภาพ | Introduction to Health Data Management and Health Data Lifecycle | CLO2 |
+| 2 | การรวบรวมและการป้อนข้อมูลสุขภาพจากกระบวนการทำงานจริง | Health Data Collection and Data Entry in Real-World Workflows | CLO2 |
+| 3 | การออกแบบกระบวนการทำงานและแบบจำลองการไหลของข้อมูลสุขภาพ | Health Workflow Design and Health Data Flow Modeling | CLO2 |
+| 4 | การจัดเก็บ การเรียกใช้ และการจัดโครงสร้างข้อมูลสุขภาพเบื้องต้น | Health Data Storage, Retrieval, and Basic Data Structuring | CLO2 |
+| 5 | การกำกับดูแลข้อมูลสุขภาพและบทบาทผู้รับผิดชอบข้อมูล | Health Data Governance and Data Responsibility Roles | CLO1 |
+| 6 | ความเป็นส่วนตัว ความปลอดภัย และจริยธรรมของข้อมูลสุขภาพ | Privacy, Security, and Ethical Use of Health Data | CLO1 |
+| 7 | การจัดการคุณภาพข้อมูลสุขภาพ | Health Data Quality Management | CLO4 |
+| 8 | การจัดการเวชระเบียนอิเล็กทรอนิกส์และระเบียนสุขภาพอิเล็กทรอนิกส์ | Electronic Medical Records and Electronic Health Records Management | CLO3 |
+| 9 | ระบบสารสนเทศสุขภาพและการแลกเปลี่ยนข้อมูลสุขภาพ | Health Information Systems and Health Information Exchange | CLO3 |
+| 10 | มาตรฐานข้อมูลสุขภาพและแบบจำลองสารสนเทศสุขภาพ | Health Data Standards and Health Information Models | CLO3, CLO2 |
+| 11 | การจัดการข้อมูลเพื่อสนับสนุนการตัดสินใจทางคลินิก | Data Management for Clinical Decision Support Systems | CLO5 |
+| 12 | การจัดการข้อมูลขนาดใหญ่ด้านสุขภาพเบื้องต้น | Introduction to Big Data Management in Health | CLO6 |
+| 13 | การบริหารโครงการจัดการข้อมูลสุขภาพในหน่วยงาน | Project Management for Health Data Management in Organizations | CLO1, CLO2, CLO4 |
+| 14 | การนำเสนอแผนจัดการข้อมูลสุขภาพและสรุปภาพรวมรายวิชา | Health Data Management Project Presentation and Course Integration | CLO1-CLO6 |
+|
